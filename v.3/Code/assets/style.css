@@ -1,0 +1,18 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+body, input {
+  color: #b3b3b3;
+  text-transform: none;
+}
+
+body, button, input, select, textarea {
+  font-family: CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif),sans-serif;
+}
+
+body {
+  background-color: black;
+}
